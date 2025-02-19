@@ -1,3 +1,5 @@
+# [![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blue)](https://pkd2210.github.io)
+
 # Hi there, I'm Peleg! 👋
 
 I'm passionate about software development, web development, computer engineering, and computer science. Here are some details about me:
