@@ -47,5 +47,3 @@ Feel free to check out my repositories and contribute!
 - [Email](mailto:pkd2210@gmail.com)
 - [Discord](https://discord.com/users/494186837422768130)
 - [Personal Website](https://pkd2210.github.io)
-
-Thank you for visiting my profile! Have a great day! 😊
