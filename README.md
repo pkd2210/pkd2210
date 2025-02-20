@@ -9,6 +9,7 @@ I'm passionate about software development, web development, computer engineering
 - 🌱 I'm learning Computer Science, and in my free time, I experiment with IT and Linux-based operating systems.
 - 📫 How to reach me: You can contact me via [pkd2210@gmail.com](mailto:pkd2210@gmail.com) or on Discord: peleg2210 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/494186837422768130).
 - 🎨 I enjoy 3D printing and creating custom designs in my spare time.
+- 🐶 I'm q dog lover, who loves to train and play with dogs.
 
 ## Tools and Programming Languages
 
