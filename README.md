@@ -28,7 +28,9 @@ I'm passionate about software development, web development, computer engineering
 
 ## GitHub Stats
 
-![pkd2210's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkd2210&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff)
+![pkd2210's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkd2210&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff)<br>
+![pkd2210's Hacktime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=7629&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
 
 ## Top Languages
 
